@@ -1,0 +1,6 @@
+{
+  "name": "CiPUNK Monitor",
+  "description": "Profesional Network & ISP Monitoring System with Realtime Mikrotik Integration, Smart AI Diagnostic, Ticketing, and Automated Billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
